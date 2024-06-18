@@ -1,0 +1,8 @@
+# TastyTech Program in Python
+
+# Asking user for their favorite tech company
+tech_company = input("What is your favorite tech company? ")
+
+# Printing out a message based on user input
+print(f"Wow, {tech_company} is a great choice! Keep up with the latest tech news from {tech_company}.")
+
